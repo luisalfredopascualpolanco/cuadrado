@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\cuadrado\proyecto13.4\proyecto13.4\bin\Debug\proyecto13.4.exe.config
+D:\Programas\Cursos\C# ya\cuadrado\proyecto13.4\proyecto13.4\bin\Debug\proyecto13.4.exe
+D:\Programas\Cursos\C# ya\cuadrado\proyecto13.4\proyecto13.4\bin\Debug\proyecto13.4.pdb
+D:\Programas\Cursos\C# ya\cuadrado\proyecto13.4\proyecto13.4\obj\Debug\proyecto13.4.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\cuadrado\proyecto13.4\proyecto13.4\obj\Debug\proyecto13.4.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\cuadrado\proyecto13.4\proyecto13.4\obj\Debug\proyecto13.4.exe
+D:\Programas\Cursos\C# ya\cuadrado\proyecto13.4\proyecto13.4\obj\Debug\proyecto13.4.pdb

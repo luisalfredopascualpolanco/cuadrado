@@ -1,0 +1,4 @@
+Explicacion del programa:
+
+Es una app de consola
+Desarrollar una clase que represente un Cuadrado y tenga los siguientes métodos: cargar el valor de su lado, imprimir su perímetro y su superficie.
